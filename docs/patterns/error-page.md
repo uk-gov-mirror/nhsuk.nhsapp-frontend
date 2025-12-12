@@ -22,7 +22,7 @@ Do not use this pattern if:
 
 - you can adapt GOV.UK patterns for [page not found](https://design-system.service.gov.uk/patterns/page-not-found-pages/) or [service unavailable](https://design-system.service.gov.uk/patterns/service-unavailable-pages/) 
 - a user makes a mistake completing a form – instead, follow the NHS service manual guidance for [error messages](https://service-manual.nhs.uk/design-system/components/error-message) and [errors summaries](https://service-manual.nhs.uk/design-system/components/error-summary)
-- a user cannot continue for an expected reason, for example because they are not eligble – instead, check our GitHub discussion on <a href="https://github.com/nhsuk/nhsapp-frontend/issues/411">unhappy path pages</a>
+- a user cannot continue for an expected reason, for example because they are not eligible – instead, check our GitHub discussion on <a href="https://github.com/nhsuk/nhsapp-frontend/issues/411">unhappy path pages</a>
 
 ## How to structure an error page
 

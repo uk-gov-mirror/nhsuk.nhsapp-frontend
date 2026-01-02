@@ -16,9 +16,9 @@ Use an error page when:
 - there is an unexpected problem
 - users cannot access the service
 
-Log all errors and fix them as quickly as possible. 
+Log all errors and fix them as quickly as possible.
 
-Consider closing the service an using a [service unavailable page](https://design-system.service.gov.uk/patterns/service-unavailable-pages/) if the problem happens persistently and for a long time. 
+Consider closing the service an using a [service unavailable page](https://design-system.service.gov.uk/patterns/service-unavailable-pages/) if the problem happens persistently and for a long time.
 
 ## When not to use
 

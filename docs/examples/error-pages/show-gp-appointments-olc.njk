@@ -12,17 +12,26 @@ vueLink:
 <div class="nhsuk-grid-row">
   <div class="nhsuk-grid-column-two-thirds">
 
-    <h1 class="nhsuk-u-margin-bottom-5">There is a problem with showing your GP appointments</h1>
+    <h1 class="nhsuk-u-margin-bottom-5">There is a problem showing your GP appointments</h1>
 
     <p>This may be a temporary problem.</p>
 
-        {{ button({
+    {{ button({
       text: 'Try again',
       classes: 'nhsuk-button--secondary nhsapp-button nhsuk-u-margin-top-3'
     }) }}
 
     <p>Contact your GP surgery directly if you need to book or change an appointment now.</p>
-    
+
+    {% from 'nhsapp/components/card/macro.njk' import nhsappCard %}
+
+    {{ nhsappCard({
+      title: 'Ask about a health problem',
+      href: '#',
+      description: 'Provided using eConsult',
+      classes: 'nhsapp-card--secondary'
+    }) }}
+
     <h2 class="nhsuk-heading-m">For urgent medical advice</h2>
 
     <p>Use <a href="https://111.nhs.uk/">111 online</a> or <a href="tel: 111">call 111</a>.</p>

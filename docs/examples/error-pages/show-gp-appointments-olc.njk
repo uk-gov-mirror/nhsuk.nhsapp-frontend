@@ -16,21 +16,21 @@ vueLink:
 
     <p>This may be a temporary problem.</p>
 
-        {{ button({
+    {{ button({
       text: 'Try again',
       classes: 'nhsuk-button--secondary nhsapp-button nhsuk-u-margin-top-3'
     }) }}
 
     <p>Contact your GP surgery directly if you need to book or change an appointment now.</p>
 
-{% from 'nhsapp/components/card/macro.njk' import nhsappCard %}
+    {% from 'nhsapp/components/card/macro.njk' import nhsappCard %}
 
-{{ nhsappCard({
-  title: 'Ask about a health problem',
-  href: '#',
-  description: 'Provided using eConsult',
-  classes: 'nhsapp-card--secondary'
-}) }}
+    {{ nhsappCard({
+      title: 'Ask about a health problem',
+      href: '#',
+      description: 'Provided using eConsult',
+      classes: 'nhsapp-card--secondary'
+    }) }}
 
     <h2 class="nhsuk-heading-m">For urgent medical advice</h2>
 

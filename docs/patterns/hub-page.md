@@ -1,60 +1,92 @@
 ---
 layout: layouts/pattern.njk
 title: Hub pages
-description: Hubs pages are the main menu pages in the NHS App. Each hub page contains a group of related links.
+description:
 backlogID: 69
+order: 2
+tags:
+  - page
 ---
 
-{% example "hub-pages/example.njk" %}
+Hubs pages act as the primary navigation structure, helping users access the services and information they need across three sections: Home, Messages and Profile. Each hub contains a group of related links. From a hub page, users can follow links to start various journeys or move deeper into the app to lower menu pages (sub-hubs).
 
-## The structure of a hub page
+Users navigate between these hub pages using the bottom navigation bar, which is accessible from wherever you are in the app.
 
-### Page heading
+## Home
 
-This is the name of the hub page.
+Home is where users start most of their journeys to arrange healthcare or manage their health. It acts as the 'main menu' of the app for almost all health-related tasks.
 
-You can use a brief description to give users more context about a hub page. We don’t include full stops at the end of this description, following a similar principle to the [NHS service manual guidance on cards](https://service-manual.nhs.uk/content/formatting-and-punctuation#full-stops).
+Home includes core health categories, NHS information and support, and a campaign card.
 
-### Card links
+<img src="/assets/images/hub-pages-image1.png" alt="The Home hub page in the NHS App" style="border: none; background-color: transparent;">
 
-[Card links](/components/card-links) on the hub pages can lead either directly into a service or feature, or to a sub-hub where more options are available.
+Home organises health-related services and data into a set of core categories:
 
-Use headings to break up card links into themes.
+- **Prescriptions** - request and track repeat prescriptions and view medicines history
+- **Appointments** - book, view, and manage GP appointments
+- **Test results** - view test result records
+- **Vaccinations** - check and book vaccinations and view vaccination records
+- **Health conditions** - view information about diagnosed health conditions
+- **Documents** - access letters and other health documents
 
-This can help users to scan the information on the page more easily and reduces the cognitive load. Research shows that people can be overwhelmed by long lists on NHS App pages.
+The majority of health information in the NHS App fits into these categories and from research they have a high first-click success rate across most of the main app journeys.
 
-Do not list more than 6 card links in a row without using a section heading.
+### NHS information and support
 
-## How to use hub pages
+Home also includes access to broader NHS services and health information beyond their personal health records, such as 111 online and helping them to find local health services.
 
-Hub pages are used as the main navigational pages within the information architecture of the NHS App. They must always be accessible from either the top navigation bar or the bottom navigation bar of the NHS App so that users can select them at any time.
+### Campaign card
 
-## How not to use hub pages
+<img src="/assets/images/hub-pages-image2.png" alt="Examples of campaign cards on the Home hub page" style="border: none; background-color: transparent;">
 
-Do not include a back button on hub pages. Hub pages are the starting point for deeper pages in the app, which should always include a back button.
+Seasonal or topical campaigns are promoted at the bottom of the NHS App home screen, such as COVID or flu vaccines, blood donation or being part of health research. The campaign cards [help users to learn about health campaigns](https://design-system.nhsapp.service.nhs.uk/patterns/learn-about-health-campaigns/).
 
-## Current hub pages
 
-### Services
 
-This is where users can take actions to arrange healthcare or look after their health. People visit this hub when they want to start using a transactional service. For example, to request a repeat prescription or book a GP appointment.
+## Messages
 
-{% example "hub-pages/services.njk" %}
+Messages is where users can read, and sometimes reply to, messages from their healthcare services. The number and type of inboxes available to them will depend on their GP surgery.
 
-### Your health
+<img src="/assets/images/hub-pages-image3.png" alt="The Messages hub page in the NHS App" style="border: none; background-color: transparent;">
 
-This is where users can view and manage their personal records, health choices and requests that are already in progress. For example, to manage an upcoming appointment, track a prescription request or view their GP health record.
+### Inboxes
 
-{% example "hub-pages/your-health.njk" %}
+The Messages hub contains inboxes depending on what the user's GP surgery or hospital trust has configured. Users may have:
 
-### Messages
+- a GP surgery inbox for messages from their practice
+- hospital inboxes for messages from secondary care providers
+- other healthcare service inboxes
 
-This is where users can read, and sometimes reply to, messages from their healthcare services. The number and type of inboxes available to them will depend on their GP surgery.
+The number and type of inboxes available varies based on the IT systems and configurations at each user's care settings. Some users may only have one inbox, while others may have up to 4.
 
-{% example "hub-pages/messages.njk" %}
 
-### Account
+## Profile
 
-In this area, users can change their contact and log in details (their NHS login) or manage services for another person. They can also change NHS App settings such as notifications, biometric login and cookies preferences.
+The purpose of Profile is to display the user's personal information and preferences. Users can view and update their contact and login details, set health preferences, manage services for another person, and change app settings. Profile also contains the ability to log out of the NHS App.
 
-{% example "hub-pages/account.njk" %}
+<img src="/assets/images/hub-pages-image4.png" alt="The Profile hub page in the NHS App" style="border: none; background-color: transparent;">
+
+### Personal information card
+
+At the top of Profile, users see a summary card showing key user details:
+
+- their name
+- their date of birth
+- their NHS number
+- the option to manage health services for others (proxy access)
+
+This card provides quick access to key identifying information and proxy access functionality. Given its distinct visual appearance, it also helps users have a sense of place in the App when on the Profile hub.
+
+### Personal details and app settings
+
+The profile section is a combination of health and non-health related preferences. Research showed that profile is the obvious place for users to navigate to for non-health related things like contact details and app settings. However, there are a few health preferences which users expect to be in the profile section, such as organ donation decision and access to care plans.
+
+## Making changes to the structure of a hub page
+
+The hub pages form the core structure of the NHS App. Because of their foundational role in how users navigate and understand the app, these pages are carefully maintained and protected from frequent or big changes.
+
+The Navigation and Onboarding team is responsible for the structure and content of all hub pages and have final say on changes. Any proposed changes to hub pages must be designed, researched and approved by this team.
+
+If you need to add a new journey or service, or believe a change to a hub page would improve the user experience, you should contact the Navigation and Onboarding team early in your design process.
+
+[Read the full guidance on making changes to the structure of the NHS App.](https://design-system.nhsapp.service.nhs.uk/patterns/the-structure-of-the-nhsapp/)

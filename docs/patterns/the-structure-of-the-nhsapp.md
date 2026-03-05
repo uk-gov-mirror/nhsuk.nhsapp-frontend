@@ -36,11 +36,11 @@ This is where users can read, and sometimes reply to, messages from their health
 
 The purpose of Profile is to display the user's personal information and preferences. Users can view and update their contact and login details (their NHS account), set health preferences such as their GP surgery and organ donation decision, manage services for another person, and change NHS App settings such as notifications, biometric login and cookies preferences.
 
-## NHS App sitemap
+<!-- ## NHS App sitemap
 
 You can view the sitemap to see the complete structure of the NHS App.
 
-<img src="/assets/images/nhsapp-structure-image2.png" alt="NHS App sitemap" style="border: none; background-color: transparent;">
+<img src="/assets/images/nhsapp-structure-image2.png" alt="NHS App sitemap" style="border: none; background-color: transparent;"> -->
 
 ## Research
 
@@ -58,6 +58,3 @@ The structure of the NHS App is continuously monitored using Adobe Analytics. Re
 
 Read more about making changes to the structure of the NHS App.
 
-## Contribute to this guidance
-
-Please let us know how this has worked for you by sharing your findings in [GitHub](https://github.com/nhsuk/nhsapp-frontend/issues).

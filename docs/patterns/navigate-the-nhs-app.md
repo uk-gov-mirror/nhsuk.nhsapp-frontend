@@ -1,6 +1,6 @@
 ---
 layout: layouts/pattern.njk
-title: Navigate the NHS App
+title: Move between areas of the NHS App
 description:
 backlogID: 63
 order: 1
@@ -47,7 +47,7 @@ Card link labels should be concise and describe to the user what to expect on th
 
 Primary and secondary card links are used to communicate hierarchy on a page. A description can be used on a card link if a user need for more detail has been uncovered.
 
-[Read more about card links on the NHS App design system.](https://design-system.nhsapp.service.nhs.uk/components/card-links/)
+[Read more about card links](https://design-system.nhsapp.service.nhs.uk/components/card-links/)
 
 ## Related pages
 

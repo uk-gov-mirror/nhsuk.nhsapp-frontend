@@ -41,8 +41,6 @@ Home also includes access to broader NHS services and health information beyond 
 
 Seasonal or topical campaigns are promoted at the bottom of the NHS App home screen, such as COVID or flu vaccines, blood donation or being part of health research. The campaign cards [help users to learn about health campaigns](https://design-system.nhsapp.service.nhs.uk/patterns/learn-about-health-campaigns/).
 
-
-
 ## Messages
 
 Messages is where users can read, and sometimes reply to, messages from their healthcare services. The number and type of inboxes available to them will depend on their GP surgery.
@@ -58,7 +56,6 @@ The Messages hub contains inboxes depending on what the user's GP surgery or hos
 - other healthcare service inboxes
 
 The number and type of inboxes available varies based on the IT systems and configurations at each user's care settings. Some users may only have one inbox, while others may have up to 4.
-
 
 ## Profile
 

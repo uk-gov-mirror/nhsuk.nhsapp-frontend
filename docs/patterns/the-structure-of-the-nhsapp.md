@@ -57,4 +57,3 @@ The majority of people understood the purpose of each of the three main app area
 The structure of the NHS App is continuously monitored using Adobe Analytics. Regular user testing on potential improvements to the structure and labelling of things in the app is carried out by the Navigation and Onboarding NHS App Team.
 
 Read more about making changes to the structure of the NHS App.
-

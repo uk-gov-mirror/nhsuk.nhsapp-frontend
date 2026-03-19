@@ -43,4 +43,3 @@ Research showed that the majority of users associated this option with appointme
 Responses to online consultation requests can be found in the 'Messages' hub by selecting 'Replies to your GP requests'. Research showed that users expected responses to come through to them as messages.
 
 Users can access this journey if their GP surgery is served by Engage, PATCHS or Virtually.
-

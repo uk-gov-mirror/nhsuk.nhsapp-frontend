@@ -10,7 +10,7 @@ tags:
 
 Many people can contact their GP, get advice and arrange care using a form or questionnaire in the NHS App.
 
-These services are enabled by GP surgeries in the NHS App and provided by third-party companies. The journeys are generally structured in a similar way, but the UX and visual design varies widely.
+These services are enabled by GP surgeries in the NHS App and provided through third-party companies. The journeys are generally structured in a similar way, but the UX and visual design varies widely.
 
 <img src="/assets/images/helping-users-contact-gp-image1.png" alt="Helping users contact their GP surgery online" style="border: none; background-color: transparent;">
 

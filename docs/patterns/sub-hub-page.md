@@ -1,14 +1,12 @@
 ---
 layout: layouts/pattern.njk
 title: Sub-hub pages
-description:
+description: Sub-hubs are the second layer of menu pages in the NHS App. They are positioned one level down from hub pages.
 backlogID: 249
 order: 3
 tags:
   - page
 ---
-
-Sub-hubs are the second layer of menu pages in the NHS App. They are positioned one level down from hub pages.
 
 Sub-hubs group closely related series of links. They reveal information to users in a way that lets them decide where to go next, without being overwhelmed by too many options or distracted by irrelevant options on hub pages.
 

@@ -1,14 +1,12 @@
 ---
 layout: layouts/pattern.njk
 title: The structure of the NHS App
-description:
+description: The NHS App brings together many different features and services that help people manage their healthcare digitally. In total, there are over 60 services within the app.
 backlogID: 66
 order: 1
 tags:
   - page
 ---
-
-The NHS App brings together many different features and services that help people manage their healthcare digitally. In total, there are over 60 services within the app.
 
 Research shows that people use the NHS App with specific tasks in mind. They do not generally come to the app to explore what they could do. Because of this, and the complexity and sensitivity of healthcare information, the app's structure is critical for usability. A clear structure helps people complete tasks as easily as possible by organising information in ways that reflect how users think about healthcare.
 

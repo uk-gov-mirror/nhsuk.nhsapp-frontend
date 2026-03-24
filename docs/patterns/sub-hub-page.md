@@ -20,7 +20,7 @@ Sub-hubs have a relatively consistent structure to establish rhythm and familiar
 
 The back button on a sub-hub takes the user back to the relevant hub.
 
-### Main heading 
+### Main heading
 
 The main heading should describe the type of information grouped within the sub-hub. It should match the label on the preceding card link. Some sub-hub main headings may be supported by a short description to provide more information to the user.
 

@@ -8,7 +8,7 @@ tags:
   - page
 ---
 
-Hubs pages act as the primary navigation structure of the NHS App, helping users access the services and information they need. 
+Hubs pages act as the primary navigation structure of the NHS App, helping users access the services and information they need.
 
 There are three hubs: Home, Messages and Profile. From these hubs, users can follow links to start various journeys or move deeper into lower menu pages called [sub-hubs](/docs/patterns/sub-hub-page.md).
 
@@ -61,11 +61,11 @@ The number and type of inboxes available varies based on the IT systems and conf
 
 ## Profile
 
-The purpose of Profile is to display the user's personal information and preferences. Users can: 
+The purpose of Profile is to display the user's personal information and preferences. Users can:
 
 - view and update their contact and login details
 - set health preferences
-- manage services for another person 
+- manage services for another person
 - change app settings
 - log out of the NHS App
 

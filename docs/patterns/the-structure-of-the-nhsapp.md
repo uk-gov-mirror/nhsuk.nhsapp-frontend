@@ -30,10 +30,10 @@ This is where users can read, and sometimes reply to, messages from their health
 
 ### Profile
 
-The purpose of Profile is to display the user's personal information and preferences. Users can: 
+The purpose of Profile is to display the user's personal information and preferences. Users can:
 
-- view and update their contact and login details (their NHS login details) 
-- set health preferences such as their GP surgery and organ donation decision 
+- view and update their contact and login details (their NHS login details)
+- set health preferences such as their GP surgery and organ donation decision
 - manage services for another person
 - change NHS App settings such as notifications, biometric login and cookies preferences
 

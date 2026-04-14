@@ -12,7 +12,7 @@ Research shows that people use the NHS App with specific tasks in mind. They do 
 
 ## Overview
 
-<img src="/assets/images/nhsapp-structure-image1.png" alt="The three main hub pages of the NHS App: Home, Messages and Profile" style="border: none; background-color: transparent;">
+<img src="/assets/images/nhsapp-structure-image1.png" alt="The three main hub pages of the NHS App: Home, Messages and Profile." style="border: none; background-color: transparent;">
 
 The NHS App has three main areas, called hub pages: Home, Messages and Profile. From these hub pages, users can access the services and features they need through categories such as prescriptions, appointments and test results – these are called sub-hub pages.
 
@@ -47,7 +47,7 @@ You can view the sitemap to see the complete structure of the NHS App.
 
 ## Research
 
-The current structure of the NHS App is based on research carried out with more than 1,000 users, and collaboration with care settings and clinical safety experts. Specific accessibility testing was carried out with people with a wide range of physical, cognitive and complex disabilities.
+The current structure of the NHS App is based on research with more than 1,000 users, and collaboration with care settings and clinical safety experts. Specific accessibility testing was carried out with people with a wide range of physical, cognitive and complex disabilities.
 
 The research showed most users open the app with a specific task in mind, including:
 

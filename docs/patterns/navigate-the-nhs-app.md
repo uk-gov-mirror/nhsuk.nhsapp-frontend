@@ -12,7 +12,7 @@ There are different ways to help people move easily between areas of the NHS App
 
 ## Top and bottom navigation bars
 
-<img src="/assets/images/helping-users-navigate-image1.png" alt="The top and bottom navigation bars in the NHS App" style="border: none; background-color: transparent;">
+<img src="/assets/images/helping-users-navigate-image1.png" alt="The top and bottom navigation bars in the NHS App." style="border: none; background-color: transparent;">
 
 The top navigation allows users to access App help, where users can find help and support information to complete their task. The NHS logo in the top navigation assures users they are in the official NHS App and navigates users home when selected.
 
@@ -22,17 +22,17 @@ The bottom navigation contains the buttons for the three main areas in the NHS A
 
 Hub and sub-hub pages where users do the majority of their navigation to the start of journeys are designed to be easy to understand and progress through. These pages are typically made up of a main heading, section headings and card links.
 
-<img src="/assets/images/helping-users-navigate-image2.png" alt="Page structure showing main heading, section headings and card links" style="border: none; background-color: transparent;">
+<img src="/assets/images/helping-users-navigate-image2.png" alt="Three NHS App screens showing common page structure elemenets: main headings, section headings and card links." style="border: none; background-color: transparent;">
 
 ### Page headings
 
 Headings help users understand what the page covers and find the information they need. Headings should reflect the page structure and are particularly important for people with access needs.
 
-Main headings or h1 should be unique, informative, concise and only 1 per page. In the NHS App, main headings should reflect the link the user clicked when navigating to that page. For instance, if the user selects an 'Appointments' link, the next page should have the main heading 'Appointments'.
+Main headings should be unique, informative and concise, and there should only be 1 per page. In the NHS App, main headings should reflect the link the user clicked when navigating to that page. For instance, if the user selects an 'Appointments' link, the next page should have the main heading 'Appointments'.
 
 Sub-headings provide additional structure to pages by creating meaningful groups of card links which help with navigation. The sub-headings used in the NHS App were derived from a combination of the information available across the app and research showing how users group this information. Whilst sub-headings can be useful, too many sub-headings on a page can overwhelm users with choice.
 
-[Read more about headings on the NHS Digital service manual.](https://service-manual.nhs.uk/content/formatting#headings)
+[Read more about headings on the NHS digital service manual](https://service-manual.nhs.uk/content/formatting#headings)
 
 ### Card links
 
@@ -53,7 +53,7 @@ Primary and secondary card links are used to communicate hierarchy on a page. A 
 
 Sometimes users can be helped with their onward journey by presenting them with options to related content.
 
-<img src="/assets/images/helping-users-navigate-image3.png" alt="Related pages on a page in the NHS App" style="border: none; background-color: transparent;">
+<img src="/assets/images/helping-users-navigate-image3.png" alt="Two NHS App pages showing links to related pages." style="border: none; background-color: transparent;">
 
 Through research, it has been uncovered that journeys that could benefit from this form of navigation include:
 

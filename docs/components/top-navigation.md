@@ -7,7 +7,7 @@ tags:
   - component
 ---
 
-![The top navigation menu. There are two right-aligned icons: one is a question mark and the other is shaped like a person.](/assets/images/top-nav.png)
+![The top navigation menu. The NHS logo is on the left and a button with the text app help is on the right.](/assets/images/top-navigation-2026.png)
 
 ## When to use
 
@@ -21,15 +21,12 @@ On the web browser version of the NHS App, we use an [NHS.UK header](https://ser
 
 ## How to use
 
-The top navigation includes a link to the NHS App help and support pages hosted on NHS.UK. This is a contextual link that takes users to a page relevant to their location in the app. For example, if a user is on a prescription screen, the help link will open a help page about prescriptions.
+The top navigation includes:
 
-The top also includes an ’Account and settings’ link. This opens the respective hub page.
+- the NHS logo, which users can select to return to the home screen of the NHS App
+- the App help button, which users can select to open help pages hosted on the NHS website
 
-![Details of the top navigation menu. The question mark icon links to Help and Support. The person icon links to Account.](/assets/images/top-nav-2.png)
-
-## Accessibility
-
-The top navigation icons do not have text labels. They have aria labels which are announced by screen readers.
+![Details of the top navigation menu. Selecting the NHS logo leads to the home screen of the NHS App. The app help button goes to the help and support pages.](/assets/images/using-top-nav.png)
 
 ## Research
 

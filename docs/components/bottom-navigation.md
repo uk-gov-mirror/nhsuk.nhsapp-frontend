@@ -7,7 +7,7 @@ tags:
   - component
 ---
 
-![The bottom navigation menu. It contains four icons with text labels: Home, Services, Your health and Messages.](/assets/images/bottom-nav.png)
+![The bottom navigation menu. It contains three icons with text labels: Home, Messages and Profile.](/assets/images/bottom-navigation-2026.png)
 
 ## When to use
 
@@ -23,14 +23,14 @@ The bottom navigation is not part of the web browser version of the NHS App. The
 
 Each hub is represented by a text label and an icon. The text labels match the main heading on the respective hub page.
 
-![Details of the bottom navigation menu. Icons become highlighted when selected. An unread indicator can be placed over icons.](/assets/images/bottom-nav-2.png)
+![Details of the bottom navigation menu. Icons become highlighted when selected. An unread indicator can be placed over icons.](/assets/images/using-bottom-nav.png)
 
 ## Accessibility
 
-Bear in mind that the bottom navigation can be easier for users to reach than the top navigation. This lends itself to links that users may need more frequently.
+The bottom navigation can be easier for users to reach than the top navigation. This lends itself to links that users may need more frequently.
 
 ## Research
 
 The ‘Home’ link was previously placed on the top navigation of the NHS App. In usability testing, participants found it easier to use the link when it was placed on the bottom navigation. They also noticed that this placement was more consistent with other popular apps.
 
-We also tested recognition of the hub page icons. The icons were well recognised. The use of text labels was needed to help users differentiate the ‘Services’ and ‘Your health’ icons.
+We also tested recognition of the hub page icons. The icons were well recognised.
